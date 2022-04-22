@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: f4d2f4414d78539448ebfc5d9983c1a6
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - redBird: {fileID: 2289602286890924135, guid: c85dbeb74b45c994ba592f3ee86b1929, type: 3}
+  - yellowBird: {fileID: 1847782997131602078, guid: c22d4380e1706874fadd0475add7c453, type: 3}
+  - blueBird: {fileID: 1482893281871648870, guid: a0545ccedd4c5d649a4aa1eaaa618927, type: 3}
+  - dayBackground: {fileID: 3240117419507350700, guid: ea17dd0a938066f4b808b0f27b8617a9, type: 3}
+  - nightBackground: {fileID: 5039607356338710630, guid: 383dafd292090fb4393f637c8c427179, type: 3}
+  - birdImage: {fileID: 6328718177468960519, guid: a6ac7e63ff311a5479166294287104c2, type: 3}
+  - backgroundImage: {fileID: 4918068478166568895, guid: 445d7d69fc16aab409dd6d26019847e5, type: 3}
+  - redBirdSprite: {fileID: 21300000, guid: 309fdcabdb5c36540871b877d09013d3, type: 3}
+  - yellowBirdSprite: {fileID: 21300000, guid: dc2023b0e99f1974cbbfc7ff67ad3f80, type: 3}
+  - blueBirdSprite: {fileID: 21300000, guid: 67d160f957d9bef4daa7719e31cc86e2, type: 3}
+  - dayBackgroundSprite: {fileID: 21300000, guid: e439346e25d4879448f0d9b7c72d5ad4, type: 3}
+  - nightBackgroundSprite: {fileID: 21300000, guid: 01bd7216d936204478b02d6c1442377b, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
